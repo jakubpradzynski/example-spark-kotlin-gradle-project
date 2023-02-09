@@ -17,7 +17,6 @@ dependencies {
     implementation("com.fasterxml.jackson.core:jackson-core:2.14.2")
     testImplementation("io.kotest:kotest-runner-junit5:5.5.5")
     testImplementation("io.kotest:kotest-assertions-core:5.5.5")
-    // testImplementation(kotlin("test"))
 }
 
 tasks.test {
